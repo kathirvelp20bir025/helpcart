@@ -1,12 +1,3 @@
-/*
- * Smoothbox
- * http://kthornbloom.com/smoothbox.php
- *
- * Copyright 2013, Kevin Thornbloom
- * Free to use and abuse under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- */
-
 $(document).ready(function() {
 
     $('.sb').click(function(event){
